@@ -1,0 +1,46 @@
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+/android/app/debug
+/android/app/release
+/android/.gradle
+
+# iOS
+*.ipa
+*.dSYM.zip
+*.xcuserstate
+/ios/build
+/ios/Pods
+
+# Misc
+*.log
+*.lock
+.npm
