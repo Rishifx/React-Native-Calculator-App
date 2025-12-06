@@ -147,8 +147,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/expo-calculator-app.git
-   cd expo-calculator-app
+   git clone https://github.com/Rishifx/React-Native-Calculator-App.git
+   cd React-Native-Calculator-App
    ```
 
 2. **Install dependencies**
@@ -250,9 +250,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **[RISHI PATHAK]**
-- GitHub: [@yourusername](https://github.com/rishifx)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/rishifx)
-- Email: rishi.pathak193@gmail.com
+- GitHub: [@rishifx](https://github.com/rishifx)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/rishifx)
+- Email: [Email](rishi.pathak193@gmail.com)
 
 ---
 
