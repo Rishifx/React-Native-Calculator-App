@@ -249,10 +249,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**[RISHI PATHAK]**
+- GitHub: [@yourusername](https://github.com/rishifx)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/rishifx)
+- Email: rishi.pathak193@gmail.com
 
 ---
 
@@ -261,17 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Expo team for excellent documentation
 - React Native community for valuable resources
 - Inspiration from iOS Calculator and Google Calculator
-
----
-
-## 📈 Future Enhancements
-
-- [ ] Theme customization (Light/Dark modes)
-- [ ] Calculation history
-- [ ] Haptic feedback
-- [ ] Unit converter
-- [ ] Graph plotting for scientific functions
-- [ ] Cloud sync for preferences
 
 ---
 
